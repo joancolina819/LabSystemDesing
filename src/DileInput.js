@@ -41,7 +41,7 @@ import { LitElement, html, css } from 'lit-element';
  * @litElement
  */
 
-export class PersonalizateInput extends LitElement {
+export class DileInput extends LitElement {
 
   /**
    * Fired when user press enter key.

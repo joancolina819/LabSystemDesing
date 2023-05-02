@@ -1,3 +1,3 @@
-import { PersonalizateInput } from './src/inputExample.js';
+import { DileInput } from './src/DileInput.js';
 
-window.customElements.define('dile-input', PersonalizateInput);
+window.customElements.define('dile-input', DileInput);

@@ -1,1 +1,1 @@
-export { PersonalizateInput } from './src/inputExample.js';
+export { DileInput } from './src/DileInput.js';
