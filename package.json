@@ -1,5 +1,5 @@
 {
-  "name": "inputExampleJDC",
+  "name": "input-example-jdc",
   "version": "1.0.0",
   "description": "Web Component for a customized input text field, based in LitElement.",
   "main": "index.js",
